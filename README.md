@@ -2,6 +2,8 @@
 
 <b>Our Submission for the Level Up Jam of 2025</b>
 
+[**Itch.io Page Link Here!**](https://somnus-n.itch.io/rock-paper-scissors)
+
 <img width="3064" height="1358" alt="image" src="https://github.com/user-attachments/assets/22eca97f-81f8-41f1-8f89-c269a4d21d6f" />
 
 Play our wacky take on rock, paper, scissors as a filthy cheater who plays a weapon outside of the rules! 
