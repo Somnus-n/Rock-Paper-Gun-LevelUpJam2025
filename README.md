@@ -1,4 +1,4 @@
-# LevelUpGameJam2025
+# Rock, Paper, GUN!
 
 <b>Our Submission for the Level Up Jam of 2025</b>
 
