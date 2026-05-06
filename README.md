@@ -1,6 +1,6 @@
 # LevelUpGameJam2025
 
-<b>Our Submission for the Global Games Jam of 2026</b>
+<b>Our Submission for the Level Up Jam of 2025</b>
 
 <img width="3064" height="1358" alt="image" src="https://github.com/user-attachments/assets/22eca97f-81f8-41f1-8f89-c269a4d21d6f" />
 
